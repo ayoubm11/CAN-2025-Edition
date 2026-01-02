@@ -1,0 +1,9 @@
+pandas>=1.5
+numpy
+scikit-learn
+joblib
+streamlit
+matplotlib
+prefect
+plotly>=5.0
+pycountry
